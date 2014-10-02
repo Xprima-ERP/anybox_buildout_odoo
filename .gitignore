@@ -5,3 +5,7 @@ eggs/
 etc/
 parts/
 upgrade.py
+community_addons_7/
+local_dev.cfg
+xprima_addons_7/
+xprima_configs/
